@@ -1,0 +1,7 @@
+product_id,product_name,sub_category,category,brand,shop,tag_price
+1000001,A knit,knit,tops,brand A,shop A,3700
+1000002,B-Tshirt,t-shirt,tops,brand A,shop A,3600
+1000003,C-hoodie,hoodie,tops,brand B,shop B,14000
+1000004,D-jacket,riders jacket,outer,brand C,shop C,4990
+1000005,E-knit,knit,tops,brand C,shop C,3900
+1000006,F-slacks,slacks,pants,brand D,shop D,9800
